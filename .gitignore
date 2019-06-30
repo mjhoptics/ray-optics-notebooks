@@ -1,0 +1,8 @@
+*.log
+*.roa
+
+# IDE settings
+.vscode
+
+# Jupyter Notebook
+.ipynb_checkpoints
